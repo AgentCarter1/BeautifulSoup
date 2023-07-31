@@ -1,1 +1,2 @@
-# BeautifulSoup
+for run:
+python main.py
