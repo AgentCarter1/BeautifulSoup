@@ -1,3 +1,3 @@
 for run:
-python main.py
+"python main.py"
 then wait 3 or 5 minutes.
